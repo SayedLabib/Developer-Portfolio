@@ -153,3 +153,32 @@ nav li a{
  #what-i-do{
     padding: 30px 150px;
  }
+
+
+ /* Working on skill-set styles */
+
+ .skill-container{
+    display: flex;
+    gap: 24px;
+ }
+
+ .skill{
+    padding: 30px;
+    border-radius: 5px;
+    background: #FFF;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+ }
+
+ .skill-description{
+    color:  #757575;    
+    font-size: 16px;
+    font-weight: 400;
+
+ }
+
+ .skill-title{
+    color: #181818;   
+    font-size: 20px; 
+    font-weight: 700;
+ 
+ }
